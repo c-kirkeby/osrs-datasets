@@ -44318,5 +44318,20 @@
       }
     ],
     "name": "Making Twinflame staff"
+  },
+  {
+    "outputs": [
+      {
+        "id": 30321,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 30324,
+        "quantity": 1
+      }
+    ],
+    "name": "repairing Zombie helmet"
   }
 ]
