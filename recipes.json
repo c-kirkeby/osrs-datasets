@@ -44333,5 +44333,20 @@
       }
     ],
     "name": "repairing Zombie helmet"
+  },
+  {
+    "name": "Making Burning claws",
+    "outputs": [
+      {
+        "id": 29577,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 29574,
+        "quantity": 2
+      }
+    ]
   }
 ]
